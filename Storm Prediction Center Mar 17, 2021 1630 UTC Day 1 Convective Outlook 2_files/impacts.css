@@ -1,0 +1,89 @@
+td.off {
+background:#91b8ff;
+}
+td.on {
+background:#003399;
+}
+
+#impactTbl {
+	margin: 0 0 0 1px;
+	float: left;
+}
+.impacts {
+        font-size: 8pt;
+        font-weight: bold;
+        font-family: arial;
+        vertical-align: middle;
+}
+
+.cities_high { background: #ff7fff; vertical-align: middle; }
+.cities_mdt { background: #e67f7f; vertical-align: middle;}
+.cities_enh { background: #e6c27f; vertical-align: middle; }
+.cities_slgt { background: #f6f67f; vertical-align: middle; }
+.cities_mrgl { background: #7fc57f; vertical-align: middle; }
+.cities_2t { background: #c0e8c0; vertical-align: middle; }
+.cities_5t { background: #c5a392; vertical-align: middle; }
+.cities_5 { background: #c5a392; vertical-align: middle; }
+.cities_10t { background: #ffea7f; vertical-align: middle; }
+.cities_15t { background: #ff7f7f; vertical-align: middle; }
+.cities_15 { background: #ffea7f; vertical-align: middle; }
+.cities_30t { background: #ff7fff; vertical-align: middle; }
+.cities_30 { background: #ff7f7f; vertical-align: middle; }
+.cities_45t { background: #9b2fff; vertical-align: middle; }
+.cities_45 { background: #ff7fff; vertical-align: middle; }
+.cities_60t { background: #1d92ff; vertical-align: middle; }
+.cities_60 { background: #9b2fff; vertical-align: middle; }
+.cities_sig { background: #eeeeee; vertical-align: middle; }
+.cities48_15 { background: #f6f67f; vertical-align: middle; }
+.cities48_30 { background: #e6c27f; vertical-align: middle; }
+.D3cities { background: #ffdbff; vertical-align: middle; }
+.D3Drycities { background: #ffdbff; vertical-align: middle; }
+.D4cities { background: #ffc5c5; vertical-align: middle; }
+.D4Drycities { background: #ffc5c5; vertical-align: middle; }
+.D5cities { background: #ebd9fb; vertical-align: middle; }
+.D5Drycities { background: #ebd9fb; vertical-align: middle; }
+.D6cities { background: #c1ffc1; vertical-align: middle; }
+.D6Drycities { background: #c1ffc1; vertical-align: middle; }
+.D7cities { background: #c1dff9; vertical-align: middle; }
+.D7Drycities { background: #c1dff9; vertical-align: middle; }
+.D8cities { background: #f4dccc; vertical-align: middle; }
+.D8Drycities { background: #f4dccc; vertical-align: middle; }
+
+.ac-high { background: #ff00ff; vertical-align: middle; }
+.ac-mod { background: #ff0000; vertical-align: middle;}
+.ac-enh { background: #e69600; vertical-align: middle; }
+.ac-slgt { background: #f6f600; vertical-align: middle; }
+.ac-mrgl { background: #00c500; vertical-align: middle; }
+.ac-nosvr { background: #e7e7e7; vertical-align: middle; }
+.ac-2t { background: #008b00; vertical-align: middle; }
+.ac-5t { background: #8b4726; vertical-align: middle; }
+.ac-5 { background: #8b4726; vertical-align: middle; }
+.ac-10t { background: #ffc800; vertical-align: middle; }
+.ac-15t { background: #ff0000; vertical-align: middle; }
+.ac-15 { background: #ffc800; vertical-align: middle; }
+.ac-30t { background: #ff00ff; vertical-align: middle; }
+.ac-30 { background: #ff0000; vertical-align: middle; }
+.ac-45t { background: #912cee; vertical-align: middle; }
+.ac-45 { background: #ff00ff; vertical-align: middle; }
+.ac-60t { background: #2b8985; vertical-align: middle; }
+.ac-60 { background: #912cee; vertical-align: middle; }
+.ac-sig { background: #eeeeee; vertical-align: middle; }
+.ac48-15 { background: #f6f600; vertical-align: middle; }
+.ac48-30 { background: #e69600; vertical-align: middle; }
+.D3fire{ background: #ff00ff; vertical-align: middle; }
+.D3Dryfire{ background: #ff00ff; vertical-align: middle; }
+.D4svr { background: #ff0000; vertical-align: middle; }
+.D4fire { background: #ff0000; vertical-align: middle; }
+.D4Dryfire { background: #ff0000; vertical-align: middle; }
+.D5svr { background: #902bee; vertical-align: middle; }
+.D5fire { background: #902bee; vertical-align: middle; }
+.D5Dryfire { background: #902bee; vertical-align: middle; }
+.D6svr { background: #008a00; vertical-align: middle; }
+.D6fire { background: #008a00; vertical-align: middle; }
+.D6Dryfire { background: #008a00; vertical-align: middle; }
+.D7svr { background: #104e8a; vertical-align: middle; }
+.D7fire { background: #104e8a; vertical-align: middle; }
+.D7Dryfire { background: #104e8a; vertical-align: middle; }
+.D8svr { background: #8a4e26; vertical-align: middle; }
+.D8fire { background: #8a4e26; vertical-align: middle; }
+.D8Dryfire { background: #8a4e26; vertical-align: middle; }

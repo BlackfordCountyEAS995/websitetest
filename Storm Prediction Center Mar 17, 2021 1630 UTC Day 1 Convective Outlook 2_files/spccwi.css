@@ -1,0 +1,103 @@
+#body { background: white }
+#body, dt, dd { color: black }
+pre  { font-family: monospace; font-size: 10pt; }
+th { background: #cccccc; font-family: Helvetica, Arial, sans-serif; font-weight: bold; text-align: center }
+.F24  { font-family: Helvetica, Arial, sans-serif; font-size: 24pt; line-height: 24pt }
+.F18  { font-family: Helvetica, Arial, sans-serif; font-size: 18pt; line-height: 18pt }
+.F14  { font-family: Helvetica, Arial, sans-serif; font-size: 14pt; line-height: 14pt; font-weight: bold }
+.F12  { font-family: Helvetica, Arial, sans-serif; font-size: 12pt; line-height: 12pt }
+.bi   { font-weight: bold; font-style: italic }
+.cen { text-align: center }
+.current { color: green }
+.navspc { background: #cccccc }
+.urgent { background: red; color: white; font-weight: bold }
+a.pwo:visited { color: yellow; font-weight: bold; text-decoration: none; }
+a.pwo:active { color: yellow; font-weight: bold; text-decoration: none; }
+a.pwo:link { color: yellow; font-weight: bold; text-decoration: none; }
+.highlight { font-weight: bold; color: red }
+.pdssvrtext { color: #0000ff }
+.svrtext { color: #00b2ee }
+.tortext { color: #fe0000 }
+.pdstortext { color: #8a0000 }
+.marginal { background: #82d282; color: black }
+.slight { background: #ffc000; color: black }
+.enhanced { background: #f6c27f; color: black }
+.moderate { background: red; color: black }
+.high { background: magenta; color: black }
+.seetext { background: #82d282; color: black }
+.fw-elevated { background: orange; color: black }
+.nosvr { background: lightgrey; color: black }
+.notstm { background: black; color: white }
+.foo { background: #FFFFCC }
+.bluet { background: #4B3399; color: white; font-weight: bold }
+spcwebtitle { font-family: Helvetica, Arial, sans-serif; font-size: 14pt; line-height: 14pt; font-weight: bold; }
+.zz { font-family: Helvetica, Arial, sans-serif; font-size: 120%; font-weight: bold; }
+zz { font-family: Helvetica, Arial, sans-serif; font-size: 120%; font-weight: bold; }
+.zz1 { font-family: Helvetica, Arial, sans-serif; font-size: 110%; font-weight: bold; }
+zz1 { font-family: Helvetica, Arial, sans-serif; font-size: 110%; font-weight: bold; }
+.rpttext { font-family: monospace; font-size: 8pt; }
+.rpttextSig { font-family: monospace; font-size: 8pt; font-weight: bold; font-style: italic; }
+.navbreadcrumbs { font-family: Helvetica, Arial, sans-serif; font-size: 8pt; }
+.masector { font-family: Helvetica, Arial, sans-serif; font-size: 8pt; color: yellow; }
+.utcclock, .utcclock SELECT, .utcclock INPUT {
+  font-size : 12pt;
+  font-weight : bold;
+  color : black;
+  font-family : monospace;
+  background: #F0F0F0;
+}
+.nav_filtered { font-size: 9pt; background: #996666; font-weight: bold; font-family: Helvetica, Arial, sans-serif; }
+.nav_filtered_wm { font-size: 9pt; background-image: url('filtered_rpts_wm.gif'); font-weight: bold; font-family: Helvetica, Arial, sans-serif; }
+div.transbox { 
+  /* background-color:#ffffff; */
+  background:url('/misc/filtered_rpts_wm.gif');
+  /* for IE
+     filter:alpha(opacity=80); */
+  /* CSS3 standard
+  opacity:0.8; */
+}
+
+.size13ptbold {
+  font-size : 13pt;
+  font-weight: bold;
+  color : #000000;
+  font-family : Helvetica, Arial, sans-serif;
+}
+.size13pt {
+  font-size : 13pt;
+  color : #000000;
+  font-family : Helvetica, Arial, sans-serif;
+}
+.size12ptbold {
+  font-size : 12pt;
+  font-weight: bold;
+  color : #000000;
+  font-family : Helvetica, Arial, sans-serif;
+}
+.size12pt {
+  font-size : 12pt;
+  color : #000000;
+  font-family : Helvetica, Arial, sans-serif;
+}
+.size11ptbold {
+  font-size : 11pt;
+  font-weight: bold;
+  color : #000000;
+  font-family : Helvetica, Arial, sans-serif;
+}
+.size11pt {
+  font-size : 11pt;
+  color : #000000;
+  font-family : Helvetica, Arial, sans-serif;
+}
+.size10ptbold {
+  font-size : 10pt;
+  font-weight: bold;
+  color : #000000;
+  font-family : Helvetica, Arial, sans-serif;
+}
+.size10pt {
+  font-size : 10pt;
+  color : #000000;
+  font-family : Helvetica, Arial, sans-serif;
+}
